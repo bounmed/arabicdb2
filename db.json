@@ -1,0 +1,20 @@
+{
+  "decks": [
+    { 
+      "id": 1, 
+      "title": "أسماء الخضر والفواكه",
+      "image": "https://www.maajim.com/img/quizzes/9bf31c7ff062936a96d3c8bd1f8f2ff3.png"
+    },
+    { 
+      "id": 2, 
+      "title": "Post 2" },
+    { 
+      "id": 3, 
+      "title": "أسماء الألوان",
+      "image": "https://www.maajim.com/img/quizzes/6f4922f45568161a8cdf4ad2299f6d23.png"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
