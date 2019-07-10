@@ -18,7 +18,7 @@
           "type": "image"
         },
         {
-          id: 3,
+          "id": 3,
           "question": "باذنجان", 
           "answer": "https://www.maajim.com/img/quizzes/15/08c5433a60135c32e34f46a71175850c.png",
           "type": "image"
@@ -32,7 +32,26 @@
       "id": 3, 
       "title": "أسماء الألوان",
       "image": "https://www.maajim.com/img/quizzes/6f4922f45568161a8cdf4ad2299f6d23.png",
-      "cards": []
+      "cards": [
+        {
+          "id": 4,
+          "question": "أحمر", 
+          "answer": "https://www.maajim.com/img/quizzes/15/04ecb1fa28506ccb6f72b12c0245ddbc.png",
+          "type": "image"
+        },
+        {
+          "id": 5,
+          "question": "أخضر", 
+          "answer": "https://www.maajim.com/img/quizzes/15/b2eeb7362ef83deff5c7813a67e14f0a.png",
+          "type": "image"
+        },
+        {
+          "id": 6,
+          "question": "أزرق", 
+          "answer": "https://www.maajim.com/img/quizzes/15/08c5433a60135c32e34f46a71175850c.png",
+          "type": "image"
+        }
+      ]
     }
   ],
   "profile": {
